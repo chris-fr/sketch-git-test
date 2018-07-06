@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "5035E4AF-33C8-4612-8711-8005B753FACB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 20,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "764C43FE-7682-4013-8A86-C02273D9575E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "50D8200E-7F1A-4519-BE92-C2BE1C39B579"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0F86EF59-B4F3-4C9A-9F71-4AC15C724BF3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3E390789-E3C5-42D9-80F5-52B2C09F4CB1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "38D69A3B-E9FA-4B2F-84C4-C6408446FA17"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "43729A14-CE78-47F8-93F3-18318DDEB740"
+    }
+  ],
+  "name": "spinner small",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
