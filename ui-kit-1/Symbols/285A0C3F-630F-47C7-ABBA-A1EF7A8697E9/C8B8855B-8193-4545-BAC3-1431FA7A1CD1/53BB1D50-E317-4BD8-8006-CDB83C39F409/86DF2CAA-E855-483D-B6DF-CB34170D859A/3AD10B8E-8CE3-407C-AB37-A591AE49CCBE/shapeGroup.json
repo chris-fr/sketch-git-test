@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -93,7 +93,7 @@
         },
         "isEnabled": true,
         "offsetX": 0,
-        "offsetY": 3,
+        "offsetY": 7,
         "spread": 0
       }
     ],
